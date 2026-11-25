@@ -48,7 +48,7 @@
 <p><sub>Android 8.0 (API 26) o superior · Se actualiza automáticamente desde la app</sub></p>
 
 <p>
-  <a href="https://github.com/lenincordova491-cyber/Linne/releases/latest/download/Linne-v2.6.apk">
+  <a href="https://github.com/lenincordova491-cyber/Linne/releases/latest/download/Linne-v2.7.apk">
     <img src="https://img.shields.io/badge/Descargar_APK_Estable-GitHub_Releases-FA2D48?style=for-the-badge&logo=android&logoColor=white" alt="Descargar APK Estable" />
   </a>
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/lenincordova491-cyber/Linne">
